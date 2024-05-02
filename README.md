@@ -11,3 +11,6 @@ We would not use a unit test to test the "message" feature. There would be a lot
 Question 2:
 
 We would use a unit test to test the "max message length" function. The function should be relatively simple, only concerned with the length of the message. A unit test would allow us to test this part of the code quickly.
+
+https://vihsiao.github.io/Lab5_Starter/expose.html
+https://vihsiao.github.io/Lab5_Starter/explore.html

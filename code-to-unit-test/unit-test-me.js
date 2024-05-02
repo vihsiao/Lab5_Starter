@@ -18,7 +18,7 @@ export function isStrongPassword(password) {
   return pwRegex.test(password);
 }
 
-// 	This regular expressions matches dates of the form XX / XX / YYYY where
+// 	This regular expressions matches dates of the form XX/XX/YYYY where
 // XX can be 1 or 2 digits long and YYYY is always 4 digits long.
 export function isDate(date) {
   const dateRegex = /^\d{1,2}\/\d{1,2}\/\d{4}$/;
